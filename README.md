@@ -16,4 +16,4 @@ A big thank you to Satish Dhawale Sir for the excellent course and guidance thro
 
 💡 I am now open to exploring opportunities in **Data analytics**, **Business intelligence**, or **Dashboard development** roles. Feel free to connect or reach out if you’d like to discuss ideas or opportunities! 
 
-hashtag#PowerBI hashtag#DataAnalytics hashtag#BusinessIntelligence hashtag#DashboardDesign hashtag#LearningJourney
+#PowerBI #DataAnalytics #BusinessIntelligence #DashboardDesign #LearningJourney
