@@ -1,11 +1,11 @@
-# 📊 Mobile Sales Dashboard
+# 📊 Mobile Sales Data - Dashboard
 
 ## 📝 Overview
 The Mobile Sales Dashboard is an interactive Power BI dashboard designed to analyze mobile sales performance over different periods. It provides key business insights by visualizing sales, transactions, quantities sold, average price trends, and payment methods. The dashboard enables users to track performance across months, quarters, and years while also allowing comparisons with the same period last year (SPLY) and month-to-date (MTD) trends.
 
 For data extraction and Power BI for visualization, the dashboard helps businesses optimize their strategies, improve decision-making, and identify key revenue drivers.
 
-📷 Dashboard Visuals
+##📷 Dashboard Visuals
 
 ### Mobile Sales Dashboard
 ![Mobile Sales Dashboard](Mobile%20Data%20Sales%20Dashboard.png)
@@ -56,7 +56,8 @@ Customer Preference Trends: Helps businesses optimize payment options based on u
 Sales Performance by Day of the Week: Identifies peak sales days to strategize marketing campaigns.
 
 
-🚀 Benefits of Using This Dashboard
+
+##🚀 Benefits of Using This Dashboard
 ✅ Improved Decision-Making: Provides data-driven insights for better business strategies.
 ✅ Performance Tracking: Helps in monitoring revenue trends and growth opportunities.
 ✅ Sales Optimization: Identifies top-performing regions, brands, and models.
