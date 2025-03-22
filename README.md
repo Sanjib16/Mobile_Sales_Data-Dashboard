@@ -1,19 +1,36 @@
 # Mobile Sales Data-Dashboard
- 🌟 **Excited to Share My Learning Journey!** 🌟 
+📊 Mobile Sales Dashboard
 
-I recently completed a comprehensive **Power BI course** under the guidance of **Satish Dhawale Sir**, where I gained hands-on experience in creating **interactive dashboards**. This journey has been both rewarding and insightful, allowing me to turn raw data into meaningful insights. 
+📝 Overview
+This repository contains an interactive Mobile Sales Dashboard built using Power BI. The dashboard provides insights into mobile sales data, including total sales, transactions, payment methods, and comparisons with previous periods.
 
-Here are some highlights of what I’ve learned: 
-✅ Designing **Interactive and visually appealing dashboards**. 
-✅ Leveraging Power BI tools to analyze data effectively. 
-✅ Creating meaningful visualizations for better decision-making. 
+## Dashboard Images
 
-📊 Check out the dashboards I created during my learning journey! (Screenshots attached for a glimpse of my work.) 
+### Mobile Data Sales Dashboard
+![Mobile Data Sales Dashboard](https://raw.githubusercontent.com/your-username/your-repo/main/Mobile%20Data%20Sales%20Dashboard.png)
 
-This experience has not only enhanced my **Data visualization skills** but also strengthened my understanding of **Business intelligence tools**. 
+### Same Period Last Year
+![Same Period Last Year](https://raw.githubusercontent.com/your-username/your-repo/main/Same%20Period%20Last%20Year.png)
 
-A big thank you to Satish Dhawale Sir for the excellent course and guidance throughout this journey! 
+### MTD Report
+![MTD Report](https://raw.githubusercontent.com/your-username/your-repo/main/MTD.png)
 
-💡 I am now open to exploring opportunities in **Data analytics**, **Business intelligence**, or **Dashboard development** roles. Feel free to connect or reach out if you’d like to discuss ideas or opportunities! 
 
-#PowerBI #DataAnalytics #BusinessIntelligence #DashboardDesign #LearningJourney
+📌 Features
+✅ Total Sales Analysis – Breakdown of total revenue, quantity, and transactions
+✅ Monthly & Yearly Trends – Sales performance over time
+✅ Payment Methods Insights – Transactions based on different payment methods
+✅ City-Wise & Model-Wise Sales – Detailed breakdown of mobile sales
+
+🛠️ Tools Used
+Power BI – Data visualization and dashboard creation
+
+🚀 How to Use
+Clone the repository:
+
+📌 Future Enhancements
+🔹 Add Power BI PBIX file for interactive use
+🔹 Include data source details and SQL queries used
+🔹 Improve filtering options and KPI insights
+
+
